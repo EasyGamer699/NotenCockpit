@@ -1,0 +1,24 @@
+![Logo](https://raw.githubusercontent.com/EasyGamer699/NotenCockpit/refs/heads/main/assets/label.png)
+
+# NotenCockpit+
+
+Eine App mit der man seine Noten im Überblick behält. Diese App übernimmt alle Arbeiten wie durchschnitt erechnen und darstellen in einem Diagramm.
+
+## Features
+
+- Noteneingabe
+- Darstellungen in einem Kreisdiagramm
+- AI Zeugniss Scan (Geplant)
+- Schulnummer API (Geplant)
+
+## Screenshots
+
+###### ![Kommen Bald](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## License
+
+[MIT](https://github.com/EasyGamer699/NotenCockpit/blob/main/LICENSE)
+
+## Acknowledgements
+
+- [Notenapp (Inspiration)](https://www.notenapp.com/)
