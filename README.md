@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/EasyGamer699/NotenCockpit/refs/heads/main/assets/label.png)
 
-# NotenCockpit+
+##
 
 Eine App mit der man seine Noten im Überblick behält. Diese App übernimmt alle Arbeiten wie durchschnitt erechnen und darstellen in einem Diagramm.
 
