@@ -7,7 +7,7 @@ Eine App mit der man seine Noten im Überblick behält. Diese App übernimmt all
 ## Features
 
 - Noteneingabe
-- Darstellungen in einem Kreisdiagramm
+- Darstellungen in einem Kreisdiagramm (Immernoch am Buggen!)
 - AI Zeugniss Scan (Geplant)
 - Schulnummer API (Geplant)
 
