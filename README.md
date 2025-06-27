@@ -11,6 +11,10 @@ Eine App mit der man seine Noten im Überblick behält. Diese App übernimmt all
 - AI Zeugniss Scan (Geplant)
 - Schulnummer API (Geplant)
 
+# Releases
+
+Download [Beta 1.0.0](https://pages.github.com/)
+
 ## Design/Screenshots
 
 ### Design
