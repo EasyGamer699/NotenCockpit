@@ -11,9 +11,9 @@ Eine App mit der man seine Noten im Überblick behält. Diese App übernimmt all
 - AI Zeugniss Scan (Geplant)
 - Schulnummer API (Geplant)
 
-## Screenshots
+## Design/Screenshots
 
-###### ![Kommen Bald](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+###### ![Prototyp Design in Figma](https://raw.githubusercontent.com/EasyGamer699/NotenCockpit/refs/heads/main/design.png)
 
 ## License
 
