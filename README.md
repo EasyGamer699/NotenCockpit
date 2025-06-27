@@ -13,7 +13,13 @@ Eine App mit der man seine Noten im Überblick behält. Diese App übernimmt all
 
 ## Design/Screenshots
 
+### Design
+
 ###### ![Prototyp Design in Figma](https://raw.githubusercontent.com/EasyGamer699/NotenCockpit/refs/heads/main/design.png)
+
+### Screenshots
+
+###### ![Finale umsetzung](https://raw.githubusercontent.com/EasyGamer699/NotenCockpit/refs/heads/main/final.png)
 
 ## License
 
