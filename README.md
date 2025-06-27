@@ -13,7 +13,7 @@ Eine App mit der man seine Noten im Überblick behält. Diese App übernimmt all
 
 # Releases
 
-Download [Beta 1.0.0](https://pages.github.com/)
+Download [Beta 1.0.0](https://github.com/EasyGamer699/NotenCockpit/releases/tag/Beta)
 
 ## Design/Screenshots
 
